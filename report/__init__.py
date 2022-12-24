@@ -1,0 +1,1 @@
+from . import attendance_empty_pdf_report
