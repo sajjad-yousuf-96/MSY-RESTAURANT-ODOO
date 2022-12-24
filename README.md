@@ -29,8 +29,23 @@ By Clicking on Billing
 <img src="static/img/billing_view.png">
 
 ## How To Create Billing
+SELECT TABLE FROM TABLE DROP DOWN
 
 Open Billing Menu --> Create
+Click on Add line at bottom line
+You will se the list of menu
 <img src="static/img/first_bill.png">
+Item price will come automatically 
 
+Add Quantity And then total price will automatically calculated
 
+After menu is added click on dine in Button so that table will shift to Occupied and will not visible for selection.
+
+When You want to complete bill 
+
+<img src="static/img/bill_second.png">
+
+Click on Billed Button
+Then Table will move to unoccupied state and will be avaliable for selection and bill will be printed.
+
+<img src="static/img/pdfbilled.png">
